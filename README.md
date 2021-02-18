@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandre Faustino Leite</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
-<img align="right" src="Eugit.png.png" alt="alexandrefaustino" align="left" width="400" />
+<img align="right" src="eugit.png" alt="alexandrefaustino" align="left" width="400" />
 
 - 🌱 I’m currently learning **React, GitHub, CSS, JavaScript, Java**
 
