@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, GitHub, CSS, JavaScript, Java**
 
-- 👨‍💻 All of my projects are available at [https://alexandrefaustino.github.io/myPortfolio/](https://alexandrefaustino.github.io/myPortfolio/)
+- 👨‍💻 All of my projects are available at [https://alexandrefaustino.github.io/myportfolio/](https://alexandrefaustino.github.io/myportfolio/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/alexandrefaustinoleite/**
 
