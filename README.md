@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 <img align="right" src="eugit.png" alt="alexandrefaustino" align="left" width="400" />
 
-- 🌱 I’m currently learning **React, GitHub, CSS, JavaScript, Java**
+- 🌱 I’m currently learning **React, GitHub, HTML, CSS, JavaScript, Java**
 
 - 👨‍💻 All of my projects are available at [https://alexandrefaustino.github.io/myportfolio/](https://alexandrefaustino.github.io/myportfolio/)
 
